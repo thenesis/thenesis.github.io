@@ -209,7 +209,7 @@ window.Typekit.config = {
     "hn": "use.typekit.net",
     "ht": "tk",
     "js": "1.19.0",
-    "kt": "uqy4hsa",
+    "kt": "qvx6cbq",
     "l": "typekit",
     "ps": 1,
     "ping": "https://p.typekit.net/p.gif{?s,k,ht,h,f,a,js,app,e,_}",
